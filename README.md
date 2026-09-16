@@ -1,73 +1,145 @@
-# Leet-Code
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sudipta-De/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
-| [0006-zigzag-conversion](https://github.com/Sudipta-De/Leet-Code/tree/master/0006-zigzag-conversion) |
-| [0008-string-to-integer-atoi](https://github.com/Sudipta-De/Leet-Code/tree/master/0008-string-to-integer-atoi) |
-| [0010-regular-expression-matching](https://github.com/Sudipta-De/Leet-Code/tree/master/0010-regular-expression-matching) |
-| [0012-integer-to-roman](https://github.com/Sudipta-De/Leet-Code/tree/master/0012-integer-to-roman) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0001-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/Sudipta-De/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
-| [0045-jump-game-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0045-jump-game-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
-| [0010-regular-expression-matching](https://github.com/Sudipta-De/Leet-Code/tree/master/0010-regular-expression-matching) |
-| [0045-jump-game-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0045-jump-game-ii) |
-## Greedy
-|  |
-| ------- |
-| [0045-jump-game-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0045-jump-game-ii) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sudipta-De/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0012-integer-to-roman](https://github.com/Sudipta-De/Leet-Code/tree/master/0012-integer-to-roman) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Sudipta-De/Leet-Code/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Sudipta-De/Leet-Code/tree/master/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0009-palindrome-number) |
-| [0012-integer-to-roman](https://github.com/Sudipta-De/Leet-Code/tree/master/0012-integer-to-roman) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Sudipta-De/Leet-Code/tree/master/0002-add-two-numbers) |
-| [0010-regular-expression-matching](https://github.com/Sudipta-De/Leet-Code/tree/master/0010-regular-expression-matching) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sudipta-De/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Sudipta-De/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Sudipta-De/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
-## Manacher
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
-<!---LeetCode Topics End-->
+A collection of my **LeetCode problem solutions**, organized by problem number and topic.
+
+This repository contains solutions written while practicing **Data Structures, Algorithms, Problem Solving, and Competitive Programming**.
+
+---
+
+## 👨‍💻 About
+
+**GitHub:** [Sudipta-De](https://github.com/Sudipta-De)
+
+I use this repository to:
+
+* Practice Data Structures & Algorithms
+* Improve problem-solving skills
+* Maintain a record of solved LeetCode problems
+* Explore different approaches and optimizations
+* Prepare for coding interviews and technical assessments
+
+---
+
+## 📚 Topics Covered
+
+The repository will include problems from topics such as:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Hash Tables
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Recursion
+* Backtracking
+* Greedy Algorithms
+* Dynamic Programming
+* Trees
+* Binary Search Trees
+* Graphs
+* Heaps & Priority Queues
+* Sorting
+* Bit Manipulation
+* Mathematics
+* And more...
+
+---
+
+## 🧩 Solutions
+
+Solutions are organized according to their **LeetCode problem numbers**.
+
+Example:
+
+```text
+LeetCode/
+│
+├── 1-Two-Sum/
+│   └── solution.c
+├── 2-Add-two_Numbers/
+│   └── solution.c
+│
+├── 8-String-to-Integer-atoi/
+│   └── solution.c
+│
+├── 45-Jump-Game-II/
+│   └── solution.c
+│
+└── ...
+```
+
+Each solution may include:
+
+* Problem name
+* Problem number
+* Difficulty
+* Solution
+* Time complexity
+* Space complexity
+* Approach / explanation
+
+---
+
+## 💻 Languages
+
+Currently, solutions are primarily written in:
+
+* **C**
+
+More languages may be added as I continue learning and practicing.
+
+---
+
+## 📈 Progress
+
+This repository is continuously updated as I solve more problems.
+
+| Difficulty | Progress       |
+| ---------- | -------------- |
+| 🟢 Easy    | 🔄 In Progress |
+| 🟡 Medium  | 🔄 In Progress |
+| 🔴 Hard    | 🔄 In Progress |
+
+> The goal is consistency — solving problems regularly and understanding the concepts behind each solution.
+
+---
+
+## 🎯 Goals
+
+* Solve problems consistently
+* Strengthen DSA fundamentals
+* Improve algorithmic thinking
+* Learn efficient approaches
+* Understand time and space complexity
+* Prepare for technical interviews
+* Build a strong problem-solving foundation
+
+---
+
+## 🔗 LeetCode
+
+You can find my LeetCode profile here:
+
+**[LeetCode](https://leetcode.com/)**
+
+---
+
+## ⭐ Repository
+
+If you find these solutions useful for learning or revision, feel free to **star ⭐ the repository**.
+
+---
+
+## 📌 Disclaimer
+
+These solutions are maintained for **learning and educational purposes**.
+
+Try solving the problems yourself before looking at the solutions to get the most out of your practice.
+
+---
+
+### Keep Coding. Keep Learning. 🚀
+
+**Sudipta-De**
