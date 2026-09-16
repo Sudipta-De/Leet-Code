@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudipta-De/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sudipta-De/Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Sudipta-De/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 ## Array
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sudipta-De/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sudipta-De/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
