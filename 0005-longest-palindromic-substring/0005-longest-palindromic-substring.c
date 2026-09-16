@@ -4,45 +4,44 @@ char* longestPalindrome(char* s) {
 
     static char result[1001];
 
-    int dp[1000][1000];
-
     int start = 0;
-    int maxlength = 1;
+    int maxLength = 1;
 
-    // Single characters are palindromes
-    for (int i = 0; i < n; i++) {
-        dp[i][i] = 1;
-    }
+    for (int center = 0; center < n; center++) {
 
-    // Check substrings of length 2 to n
-    for (int length = 2; length <= n; length++) {
+        // Odd length palindrome
+        int left = center;
+        int right = center;
 
-        for (int i = 0; i <= n - length; i++) {
+        while (left >= 0 && right < n && s[left] == s[right]) {
 
-            int j = i + length - 1;
-
-            if (s[i] == s[j]) {
-
-                if (length == 2) {
-                    dp[i][j] = 1;       // FIX 1
-                }
-                else {
-                    dp[i][j] = dp[i + 1][j - 1];
-                }
-
-                if (dp[i][j] && length > maxlength) {
-                    start = i;          // FIX 2
-                    maxlength = length;
-                }
+            if (right - left + 1 > maxLength) {
+                start = left;
+                maxLength = right - left + 1;
             }
-            else {
-                dp[i][j] = 0;
+
+            left--;
+            right++;
+        }
+
+        // Even length palindrome
+        left = center;
+        right = center + 1;
+
+        while (left >= 0 && right < n && s[left] == s[right]) {
+
+            if (right - left + 1 > maxLength) {
+                start = left;
+                maxLength = right - left + 1;
             }
+
+            left--;
+            right++;
         }
     }
 
-    strncpy(result, s + start, maxlength);
-    result[maxlength] = '\0';
+    strncpy(result, s + start, maxLength);
+    result[maxLength] = '\0';
 
     return result;
 }
