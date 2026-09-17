@@ -143,3 +143,19 @@ Try solving the problems yourself before looking at the solutions to get the mos
 ### Keep Coding. Keep Learning. 🚀
 
 **Sudipta-De**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
