@@ -158,4 +158,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sudipta-De/Leet-Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
