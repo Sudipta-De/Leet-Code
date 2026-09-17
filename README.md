@@ -162,4 +162,16 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sudipta-De/Leet-Code/tree/master/0175-combine-two-tables) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
