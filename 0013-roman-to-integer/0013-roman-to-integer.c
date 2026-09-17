@@ -1,18 +1,22 @@
 int romanToInt(char* s) {
-    int values[256]={0};
-    values['I']= 1;
-    values['V']= 5;
-    values['X']= 10;
-    values['L']= 50;
-    values['C']= 100;
-    values['D']= 500;
-    values['M']= 1000;
-    int result =0;
-    for(int i =0;s[i] !='\0';i++){
-        if (values[(unsigned char)s[i]]< values[(unsigned char)s[i+1]])
-            result -= values [(unsigned char)s[i]];
-        else 
-        result += values[(unsigned char)s[i]];
+  static const int value[256] = {
+        ['I'] = 1,
+        ['V'] = 5,
+        ['X'] = 10,
+        ['L'] = 50,
+        ['C'] = 100,
+        ['D'] = 500,
+        ['M'] = 1000
+    };
+
+    int result = 0;
+
+    for (int i = 0; s[i]; i++) {
+        if (value[(unsigned char)s[i]] < value[(unsigned char)s[i + 1]])
+            result -= value[(unsigned char)s[i]];
+        else
+            result += value[(unsigned char)s[i]];
     }
+
     return result;
 }
