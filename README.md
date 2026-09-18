@@ -170,6 +170,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Sudipta-De/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## String
@@ -185,4 +186,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sudipta-De/Leet-Code/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
