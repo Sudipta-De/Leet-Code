@@ -150,6 +150,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sudipta-De/Leet-Code/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sudipta-De/Leet-Code/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,4 +192,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sudipta-De/Leet-Code/tree/master/0029-divide-two-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sudipta-De/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
