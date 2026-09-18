@@ -170,8 +170,17 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
