@@ -152,11 +152,13 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0011-container-with-most-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sudipta-De/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sudipta-De/Leet-Code/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sudipta-De/Leet-Code/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -202,4 +204,5 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sudipta-De/Leet-Code/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
