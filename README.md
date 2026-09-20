@@ -161,6 +161,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0015-3sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sudipta-De/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sudipta-De/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -223,4 +224,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sudipta-De/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
