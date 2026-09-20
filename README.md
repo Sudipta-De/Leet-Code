@@ -187,6 +187,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sudipta-De/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,4 +215,12 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
