@@ -228,4 +228,9 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sudipta-De/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
