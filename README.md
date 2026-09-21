@@ -189,6 +189,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0014-longest-common-prefix](https://github.com/Sudipta-De/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -233,4 +236,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
