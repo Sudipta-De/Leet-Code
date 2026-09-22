@@ -234,6 +234,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sudipta-De/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -258,4 +259,20 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0099-recover-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
