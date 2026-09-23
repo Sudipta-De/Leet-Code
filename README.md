@@ -182,6 +182,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sudipta-De/Leet-Code/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## String
@@ -192,6 +193,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,4 +281,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
