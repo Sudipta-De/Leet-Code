@@ -185,6 +185,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0029-divide-two-integers](https://github.com/Sudipta-De/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sudipta-De/Leet-Code/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## String
@@ -247,6 +248,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0021-merge-two-sorted-lists](https://github.com/Sudipta-De/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sudipta-De/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sudipta-De/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Sudipta-De/Leet-Code/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
