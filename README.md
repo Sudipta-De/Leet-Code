@@ -155,6 +155,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0016-3sum-closest](https://github.com/Sudipta-De/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudipta-De/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sudipta-De/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## String
@@ -285,4 +287,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
