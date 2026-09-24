@@ -205,6 +205,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sudipta-De/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sudipta-De/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sudipta-De/Leet-Code/tree/master/0067-add-binary) |
 ## Binary Search
@@ -240,11 +241,13 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -264,6 +267,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
