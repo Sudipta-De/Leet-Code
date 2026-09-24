@@ -156,6 +156,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0018-4sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudipta-De/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sudipta-De/Leet-Code/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Sudipta-De/Leet-Code/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudipta-De/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sudipta-De/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sudipta-De/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Sudipta-De/Leet-Code/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
