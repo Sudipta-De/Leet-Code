@@ -87,6 +87,7 @@ Each solution may include:
 Currently, solutions are primarily written in:
 
 * **C**
+* **Java**
 
 More languages may be added as I continue learning and practicing.
 
