@@ -174,6 +174,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0027-remove-element](https://github.com/Sudipta-De/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sudipta-De/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sudipta-De/Leet-Code/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0013-roman-to-integer](https://github.com/Sudipta-De/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sudipta-De/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0050-powx-n](https://github.com/Sudipta-De/Leet-Code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sudipta-De/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -336,4 +339,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sudipta-De/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
