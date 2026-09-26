@@ -217,6 +217,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sudipta-De/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sudipta-De/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Sudipta-De/Leet-Code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sudipta-De/Leet-Code/tree/master/0067-add-binary) |
 ## Binary Search
