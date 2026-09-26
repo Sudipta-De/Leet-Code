@@ -164,6 +164,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0036-valid-sudoku](https://github.com/Sudipta-De/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sudipta-De/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
@@ -255,6 +256,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sudipta-De/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
