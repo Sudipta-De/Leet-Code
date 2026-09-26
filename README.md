@@ -166,6 +166,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0039-combination-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sudipta-De/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
@@ -179,6 +180,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0027-remove-element](https://github.com/Sudipta-De/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sudipta-De/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sudipta-De/Leet-Code/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -264,6 +266,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sudipta-De/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Tree
 |  |
 | ------- |
@@ -365,4 +369,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sudipta-De/Leet-Code/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
