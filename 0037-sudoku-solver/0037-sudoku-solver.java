@@ -1,40 +1,60 @@
 class Solution {
+    int[] rows = new int[9];
+    int[] cols = new int[9];
+    int[] boxes = new int[9];
+
     public void solveSudoku(char[][] board) {
-        solve(board);
-    }
-    private boolean solve(char[][]board){
-        for(int i =0;i<9;i++){
-            for(int j=0;j<9;j++){
-                if(board[i][j]== '.'){
-                    for(char num= '1';num <='9';num++){
-                        if(isValid(board,i,j,num)){
-                            board [i][j]= num;
-                            if(solve(board)){
-                                return true;
-                            }
-                        board[i][j]='.';
-                        }
-                       
-                    }return false;
+        for (int r = 0; r < 9; r++) {
+            for (int c = 0; c < 9; c++) {
+                if (board[r][c] != '.') {
+                    int n = board[r][c] - '1';
+                    int bit = 1 << n;
+                    rows[r] |= bit;
+                    cols[c] |= bit;
+                    boxes[(r / 3) * 3 + c / 3] |= bit;
                 }
-                
             }
         }
-        return true;
+
+        solve(board, 0);
     }
 
-    private boolean isValid(char[][] board,int row,int col,char num){
-        for(int i =0;i<9;i++){
-            if(board[row][i]==num)
+    private boolean solve(char[][] board, int pos) {
+        while (pos < 81) {
+            int r = pos / 9;
+            int c = pos % 9;
+
+            if (board[r][c] == '.') {
+                int b = (r / 3) * 3 + c / 3;
+                int used = rows[r] | cols[c] | boxes[b];
+                int available = (~used) & 0x1FF;
+
+                while (available != 0) {
+                    int bit = available & -available;
+                    int n = Integer.numberOfTrailingZeros(bit);
+
+                    board[r][c] = (char) ('1' + n);
+                    rows[r] |= bit;
+                    cols[c] |= bit;
+                    boxes[b] |= bit;
+
+                    if (solve(board, pos + 1))
+                        return true;
+
+                    rows[r] ^= bit;
+                    cols[c] ^= bit;
+                    boxes[b] ^= bit;
+                    board[r][c] = '.';
+
+                    available -= bit;
+                }
+
                 return false;
-            if(board[i][col]==num)
-                return false;
-            int boxRow=(row/3) * 3 + i/3;
-            int boxCol=(col/3) * 3 + i%3;
-            if(board[boxRow][boxCol] == num)
-                return false;
+            }
+
+            pos++;
         }
+
         return true;
     }
-    
 }
