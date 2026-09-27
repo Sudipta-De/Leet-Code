@@ -274,6 +274,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0046-permutations](https://github.com/Sudipta-De/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sudipta-De/Leet-Code/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
@@ -381,6 +382,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sudipta-De/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sudipta-De/Leet-Code/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
