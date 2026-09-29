@@ -175,6 +175,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0053-maximum-subarray](https://github.com/Sudipta-De/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sudipta-De/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sudipta-De/Leet-Code/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Sudipta-De/Leet-Code/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0018-4sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sudipta-De/Leet-Code/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sudipta-De/Leet-Code/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -400,4 +402,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sudipta-De/Leet-Code/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
