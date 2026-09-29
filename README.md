@@ -176,6 +176,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0054-spiral-matrix](https://github.com/Sudipta-De/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sudipta-De/Leet-Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sudipta-De/Leet-Code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Sudipta-De/Leet-Code/tree/master/0057-insert-interval) |
 ## Two Pointers
 |  |
 | ------- |
