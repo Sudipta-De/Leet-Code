@@ -221,6 +221,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0043-multiply-strings](https://github.com/Sudipta-De/Leet-Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sudipta-De/Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sudipta-De/Leet-Code/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Sudipta-De/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Sudipta-De/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
@@ -312,6 +313,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0025-reverse-nodes-in-k-group](https://github.com/Sudipta-De/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Sudipta-De/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Sudipta-De/Leet-Code/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Sudipta-De/Leet-Code/tree/master/0060-permutation-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
