@@ -179,6 +179,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0057-insert-interval](https://github.com/Sudipta-De/Leet-Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -330,6 +331,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0055-jump-game](https://github.com/Sudipta-De/Leet-Code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sudipta-De/Leet-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sudipta-De/Leet-Code/tree/master/0070-climbing-stairs) |
 ## Tree
 |  |
@@ -380,6 +382,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0054-spiral-matrix](https://github.com/Sudipta-De/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0064-minimum-path-sum) |
 ## String Matching
 |  |
 | ------- |
