@@ -224,6 +224,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0060-permutation-sequence](https://github.com/Sudipta-De/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Sudipta-De/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sudipta-De/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## String
@@ -323,6 +324,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0044-wildcard-matching](https://github.com/Sudipta-De/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Sudipta-De/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sudipta-De/Leet-Code/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sudipta-De/Leet-Code/tree/master/0070-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
@@ -413,4 +415,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sudipta-De/Leet-Code/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sudipta-De/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
