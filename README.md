@@ -247,6 +247,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0044-wildcard-matching](https://github.com/Sudipta-De/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sudipta-De/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sudipta-De/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sudipta-De/Leet-Code/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
