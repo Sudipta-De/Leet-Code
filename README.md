@@ -184,6 +184,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0068-text-justification](https://github.com/Sudipta-De/Leet-Code/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Sudipta-De/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sudipta-De/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Sudipta-De/Leet-Code/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0031-next-permutation](https://github.com/Sudipta-De/Leet-Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sudipta-De/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sudipta-De/Leet-Code/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sudipta-De/Leet-Code/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -289,6 +291,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0047-permutations-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sudipta-De/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sudipta-De/Leet-Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Sudipta-De/Leet-Code/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
@@ -441,6 +444,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sudipta-De/Leet-Code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Sudipta-De/Leet-Code/tree/master/0075-sort-colors) |
 ## Memoization
 |  |
 | ------- |
@@ -449,4 +453,8 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sudipta-De/Leet-Code/tree/master/0062-unique-paths) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sudipta-De/Leet-Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
