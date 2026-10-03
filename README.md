@@ -183,6 +183,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0066-plus-one](https://github.com/Sudipta-De/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Sudipta-De/Leet-Code/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Sudipta-De/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sudipta-De/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +265,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sudipta-De/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sudipta-De/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Sudipta-De/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
@@ -396,6 +398,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0063-unique-paths-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sudipta-De/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sudipta-De/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 ## String Matching
 |  |
 | ------- |
