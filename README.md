@@ -341,6 +341,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0025-reverse-nodes-in-k-group](https://github.com/Sudipta-De/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sudipta-De/Leet-Code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sudipta-De/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
