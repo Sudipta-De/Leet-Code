@@ -343,6 +343,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0071-simplify-path](https://github.com/Sudipta-De/Leet-Code/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudipta-De/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sudipta-De/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sudipta-De/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -391,11 +392,13 @@ Try solving the problems yourself before looking at the solutions to get the mos
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sudipta-De/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sudipta-De/Leet-Code/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sudipta-De/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -404,6 +407,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sudipta-De/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Divide and Conquer
 |  |
