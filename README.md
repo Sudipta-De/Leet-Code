@@ -278,6 +278,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0079-word-search](https://github.com/Sudipta-De/Leet-Code/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Sudipta-De/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Sudipta-De/Leet-Code/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Sudipta-De/Leet-Code/tree/master/0093-restore-ip-addresses) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,6 +333,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0079-word-search](https://github.com/Sudipta-De/Leet-Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Sudipta-De/Leet-Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Sudipta-De/Leet-Code/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
