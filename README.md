@@ -251,6 +251,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0069-sqrtx](https://github.com/Sudipta-De/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudipta-De/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Sudipta-De/Leet-Code/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Sudipta-De/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Sudipta-De/Leet-Code/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Sudipta-De/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## String
@@ -391,11 +392,13 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0087-scramble-string](https://github.com/Sudipta-De/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Sudipta-De/Leet-Code/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sudipta-De/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sudipta-De/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sudipta-De/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -407,12 +410,14 @@ Try solving the problems yourself before looking at the solutions to get the mos
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sudipta-De/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sudipta-De/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sudipta-De/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Divide and Conquer
 |  |
