@@ -421,6 +421,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -433,6 +434,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -462,6 +464,7 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -577,4 +580,5 @@ Try solving the problems yourself before looking at the solutions to get the mos
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sudipta-De/Leet-Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sudipta-De/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sudipta-De/Leet-Code/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
